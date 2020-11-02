@@ -1,21 +1,14 @@
 - layout: left
+  name: York University
+  dates: 2019 - present
+  qualification: MSc Computer Science, Specialization in Artificial Intelligence
+  description: | # this will include new lines to allow paragraphs
+          Talk about Vector institute letting me take ai courses and do industry project for real, world problem
+
+- layout: left
   name: University of Western Ontario
   dates: 2015 - 2019
   qualification: Honours BSc Computer Science, Minor in Software Engineering
-  quote: >
-          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
-    Test description here
-
-    Can put all the lines you want. The quick brown fox
-
-- layout: left
-  name: York University
-  dates: 2019 - 2020
-  qualification: MSc Computer Science, Specialization in Artificial Intelligence
-  quote: >
-          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
-    Test description here
-
-    Can put all the lines you want. The quick brown fox
+        talk about getting the fundamentals of CS, learn a broad range of fields (networks, web development, algorithms, machine code).
+        Also talk about software engineering principles from minor
