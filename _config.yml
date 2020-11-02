@@ -1,11 +1,11 @@
 # Site
-repository: sproogen/resume-theme
+#repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
 #name: Brett Harris
 name: Daniel Gleason
-title: Senior Network System Administrator
+title: This is a test title
 email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
 
