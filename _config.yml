@@ -46,13 +46,9 @@ experience_title: Experience
 educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
-#more_content: | # this will include new lines to allow paragraphs
-#  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#   - Rock climbing
-#   - Gaming
-#   - Knitting
-#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+ more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+        I also competed in Varsity pole vaulting.  Talk more here, maybe put video as well.
 
 # Footer
 footer_show_references: true

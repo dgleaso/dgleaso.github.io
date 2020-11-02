@@ -1,6 +1,6 @@
 - layout: left
   company: York University 
-  link: http://eecs.lassonde.yorku.ca/
+  link: eecs.lassonde.yorku.ca
   job_title:
   dates: Date Range (eg. January 2015 - November 2016)
   description: | # this will include new lines to allow paragraphs
@@ -8,7 +8,7 @@
 
 - layout: left
   company: Univeris 
-  link: https://univeris.com/
+  link: univeris.com
   jobs:
     - title: Testing Automation
       dates: May 2016 - August 2016
