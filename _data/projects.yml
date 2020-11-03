@@ -4,24 +4,24 @@
           I am working on Autonomous Parking with [General Dynamics Land Systems - Canada](https://www.gdlscanada.com/) (GDLS-C).  I am applying End-to-End and Hierarchical Reinforcement Learning to 
           this problem.  Bellow are some videos of my results in simulation as well as a video of the robot I will be using for real-world testing.
 
-        <center>
-        <img src="images/e2e-1.gif" alt="Or-1" width=200 height=200>
-        <img src="images/e2e-2.gif" alt="Or-1" width=200 height=200>
-        <img src="images/e2e-3.gif" alt="Or-1" width=200 height=200>
-        <img src="images/e2e-custom.gif" alt="Or-1" width=200 height=200>
-        </center>
+          <center>
+          <img src="images/e2e-1.gif" alt="Or-1" width=200 height=200>
+          <img src="images/e2e-2.gif" alt="Or-1" width=200 height=200>
+          <img src="images/e2e-3.gif" alt="Or-1" width=200 height=200>
+          <img src="images/e2e-custom.gif" alt="Or-1" width=200 height=200>
+          </center>
 
-        <center>
-        <img src="images/or-1.gif" alt="Or-1" width=200 height=200>
-        <img src="images/or-2.gif" alt="Or-1" width=200 height=200>
-        </center>
+          <center>
+          <img src="images/or-1.gif" alt="Or-1" width=200 height=200>
+          <img src="images/or-2.gif" alt="Or-1" width=200 height=200>
+          </center>
 
-        <center>
-        <img src="images/hrl-1.gif" alt="Or-1" width=200 height=200>
-        <img src="images/hrl-2.gif" alt="Or-1" width=200 height=200>
-        </center>
+          <center>
+          <img src="images/hrl-1.gif" alt="Or-1" width=200 height=200>
+          <img src="images/hrl-2.gif" alt="Or-1" width=200 height=200>
+          </center>
 
-        <center>
-        <img src="images/pioneer.jpg" alt="Or-1" width=200 height=200>
-        <img src="images/robot.gif" alt="Or-1" width=200 height=200>
-        </center>
+          <center>
+          <img src="images/pioneer.jpg" alt="Or-1" width=200 height=200>
+          <img src="images/robot.gif" alt="Or-1" width=200 height=200>
+          </center>
