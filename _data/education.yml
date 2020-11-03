@@ -3,12 +3,14 @@
   dates: 2019 - present
   qualification: MSc Computer Science, Specialization in Artificial Intelligence
   description: | # this will include new lines to allow paragraphs
-          Talk about Vector institute letting me take ai courses and do industry project for real, world problem
+          My courses were all focus on different areas of AI and my Industry Research Project allowed me to apply Machine Learning to a real-world problem.
 
 - layout: left
   name: University of Western Ontario
   dates: 2015 - 2019
-  qualification: Honours BSc Computer Science, Minor in Software Engineering
+  qualification:  BSc of Science, Honours Specialization in Computer Science with Minor in Software Engineering
   description: | # this will include new lines to allow paragraphs
-        talk about getting the fundamentals of CS, learn a broad range of fields (networks, web development, algorithms, machine code).
-        Also talk about software engineering principles from minor
+        Western's large Computer Science program allowed me to take a wide variety of courses.  I was able to learn about computer networks, web development, game design, artificial intelligence
+        and many other fields.
+
+        My Minor in Software Engineering taught me principles for development of better production code and software.

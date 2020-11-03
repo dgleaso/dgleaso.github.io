@@ -10,10 +10,7 @@ name: Daniel Gleason
 #title: > 
 #Master's Student, Specialization in Artificial Intelligence 
 #        York University
-title: |
-        Master's Student, Specialization in Artificial Intelligence,
-
-        York University
+title: Master's Student, Specialization in Artificial Intelligence, York University
 email: daniel.gleason@outlook.com
 #website: https://dgleaso.github.io/
 
@@ -33,8 +30,13 @@ linkedin_username: daniel-gleason-069a1aa4
 # about_title: About Me
 about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-        My name is Daniel and I'm a Master's Student at York University.  I am working towards a Master of Science in Computer Science with a Specialization in Artificial Intelligence, a program officially recognized by the [Vector Institute](https://vectorinstitute.ai/).
+        My name is Daniel and I'm a Master's Student at York University.  I am working towards a Master of Science in Computer Science with a Specialization in Artificial Intelligence,
+        a program officially recognized by the [Vector Institute](https://vectorinstitute.ai/).
 
+        I am excited to be working in the field of Machine Learning. I am particularly interesting in Deep Reinforcement Learning, which I am exploring in my Master's industry project. 
+        I have experience working with <mark>PyTorch</mark> and <mark>TensorFlow</mark>.
+        
+        Once I complete my Master's degree, I hope to apply my knowledge of Machine Learning to interesting and challenging problems in industry.
 
 # Projects Section
 projects_title: Projects
