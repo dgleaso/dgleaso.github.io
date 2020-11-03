@@ -48,12 +48,13 @@ experience_title: Experience
 educaton_title: Education
 
 # More Section
+#![alt text](images/pv-gif.gif "Me Pole Vaulting")
 more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
         I am also an avid Pole Vaulter!  I competed in varsity pole vaulting during my five years in university and I won the Canadian U-Sport championships in 2019!
 
         <center>
-        ![alt text](images/pv-gif.gif "Me Pole Vaulting")
+        <img src="images/pv-gif.gif" alt="Me Pole Vaulting">
         </center>
 
 # Footer
