@@ -2,10 +2,10 @@
   company: York University 
   link: eecs.lassonde.yorku.ca
   jobs:
-    - title: Teaching Assistant
-      dates: September 2019 - December 2019
     - title: Lab Monitor
       dates: September 2020 - present
+    - title: Teaching Assistant
+      dates: September 2019 - December 2019
   description: | # this will include new lines to allow paragraphs
           I lead labs for Introduction to Computing - a Net-centric Approach which assisted students in learning fundamental Computing principles through HTML, CSS, and Javascript. 
 
@@ -16,14 +16,14 @@
   company: Univeris 
   link: univeris.com
   jobs:
+    - title: Software Developer
+      dates: June 2019 - August 2019
     - title: QA and Automation Testing
-      dates: May 2016 - August 2016
+      dates: May 2018 - August 2018
     - title: QA and Automation Testing
       dates: May 2017 - August 2017
     - title: QA and Automation Testing
-      dates: May 2018 - August 2018
-    - title: Software Developer
-      dates: June 2019 - August 2019
+      dates: May 2016 - August 2016
   description: | # this will include new lines to allow paragraphs
           My work addressed Security issues and Testing Automation and I contributed towards a new method of Automating Desktop application testing.
 
