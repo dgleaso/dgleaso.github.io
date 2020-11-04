@@ -24,6 +24,9 @@
       dates: May 2017 - August 2017
     - title: QA and Automation Testing
       dates: May 2016 - August 2016
-  description: | # this will include new lines to allow paragraphs
-          My work addressed Security issues and Testing Automation and I contributed towards a new method of Automating Desktop application testing.
+  description: | # this will include new lines to allow paragraphs My work addressed Security issues and Testing Automation and I contributed towards a new method of Automating Desktop application testing.
+          - Addressed security issues as a member of the platform team
+          - Researched tools for Desktop application test automation such as Winium, Pywinauto and Autoit
+          - Performed manual testing for Wealth Management software
+
 
