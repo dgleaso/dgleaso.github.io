@@ -34,7 +34,7 @@ about_content: | # this will include new lines to allow paragraphs
         a program officially recognized by the [Vector Institute](https://vectorinstitute.ai/).
 
         I am excited to be working in the field of Machine Learning. I am particularly interesting in Deep Reinforcement Learning, which I am exploring in my Master's industry project. 
-        I have experience working with <mark>PyTorch</mark> and <mark>TensorFlow</mark>.
+        I have experience working with the [<mark>SciPy</mark>](https://www.scipy.org/) and [<mark>PyTorch</mark>](https://pytorch.org/).
         
         Once I complete my Master's degree, I hope to apply my knowledge of Machine Learning to interesting and challenging problems in industry.
 
