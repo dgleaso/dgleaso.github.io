@@ -13,9 +13,10 @@
 - layout: top-middle
   name: Vanilla Policy Gradient from Scratch
   description: |
-          <p>
-          <img src="images/cartpole.jpg" alt="e2e" tyle="float:left" width=300 height=200>
           I implemented the [Vanilla Policy Gradient](https://spinningup.openai.com/en/latest/algorithms/vpg.html) algorithm from scratch using [Numpy](https://numpy.org/).  I tested my 
           implementation on the [CartPole-v0](https://gym.openai.com/envs/CartPole-v0/) environment, and it is able to learn to succeed at the task within minutes.  My implementation can be 
           found [here](https://github.com/dgleaso/PolicyGradient).
-          </p>
+
+          <center>
+          <img src="images/cartpole.jpg" alt="e2e" tyle="float:left" width=300 height=200>
+          </center>
