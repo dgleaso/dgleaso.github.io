@@ -3,7 +3,7 @@
   description: | # this will include new lines to allow paragraphs
           I am working on Autonomous Parking with [General Dynamics Land Systems - Canada](https://www.gdlscanada.com/) (GDLS-C).  I am applying End-to-End and Hierarchical Reinforcement Learning to 
           this problem.  Bellow is a video of my results in simulation as well as a video of the robot I will be using for real-world testing.
-          More videos can be found [here](https://drive.google.com/drive/folders/1HO1CyMQCjKzPeiItieWaVHMcaECy7USn?usp=sharing):
+          More videos can be found [here](https://drive.google.com/drive/folders/1p6IFBTAmCnHIlk-kKdz1hWLcwCzXRJl2?usp=sharing).
 
           <center>
           <img src="images/sim-braid.gif" alt="e2e" width=200 height=200>
