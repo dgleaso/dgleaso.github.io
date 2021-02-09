@@ -17,6 +17,5 @@
           implementation on the [CartPole-v0](https://gym.openai.com/envs/CartPole-v0/) environment, and it is able to learn to succeed at the task within minutes.  My implementation can be 
           found [here](https://github.com/dgleaso/PolicyGradient).
 
-          <center>
+          # Removed center to have image float left
           <img src="images/cartpole.jpg" alt="e2e" width=300 height=200>
-          </center>
