@@ -19,5 +19,12 @@
           found [here](https://github.com/dgleaso/PolicyGradient).
 
           <center>
-          <img src="images/cartpole.jpg" alt="e2e" tyle="float:left" width=300 height=200>
+          <figure> 
+          <img src="images/cartpole.jpg" alt="cartpole" tyle="float:left" width=300 height=200>
+          <figcaption>CartPole-v0 environment</figcaption>
+          </figure>
+          <figure> 
+          <img src="images/running_average_training_reward.png" alt="rewards" tyle="float:left" width=300 height=200>
+          <figcaption>Running average episode reward during training</figcaption>
+          </figure>
           </center>
