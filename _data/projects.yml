@@ -19,11 +19,11 @@
           found [here](https://github.com/dgleaso/PolicyGradient).
 
           <center>
-          <figure> 
+          <figure style="float:left"> 
           <img src="images/cartpole.jpg" alt="cartpole" width=300 height=200>
           <figcaption>CartPole-v0 environment</figcaption>
           </figure>
-          <figure> 
+          <figure style="float:left"> 
           <img src="images/running_average_training_reward.png" alt="rewards"  width=300 height=200>
           <figcaption>Running average episode reward during training</figcaption>
           </figure>
