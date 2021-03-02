@@ -18,7 +18,7 @@
           implementation on the [CartPole-v0](https://gym.openai.com/envs/CartPole-v0/) environment, and it is able to learn to succeed at the task within minutes.  My implementation can be 
           found [here](https://github.com/dgleaso/PolicyGradient).
 
-          <center>
+          <div style="text-align:center">
           <figure style="float:left"> 
           <img src="images/cartpole.jpg" alt="cartpole" width=300 height=200>
           <figcaption>CartPole-v0 environment</figcaption>
@@ -27,4 +27,4 @@
           <img src="images/running_average_training_reward.png" alt="rewards"  width=300 height=200>
           <figcaption>Running average episode reward during training</figcaption>
           </figure>
-          </center>
+          </div>
