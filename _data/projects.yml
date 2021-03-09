@@ -12,6 +12,23 @@
           </center>
 
 - layout: top-middle
+  name: Binary classification on stock data using an LSTM
+  description: |
+          I used an LSTM to predict the next days S&P500 movement based on sequence of previous days. I used this project to gain experience working with LSTM's and time series data.
+
+          <div style="text-align:center">
+          <figure style="display:inline-block; margin-left:auto; margin-right:auto;"> 
+          <img src="images/sp500-historical.png" alt="historical-price" width=300 height=200>
+          </figure>
+          <figure style="display:inline-block; margin-left:auto; margin-right:auto;"> 
+          <img src="images/cm_train.png" alt="rewards"  width=300 height=200>
+          </figure>
+          <figure style="display:inline-block; margin-left:auto; margin-right:auto;"> 
+          <img src="images/acc_train.png" alt="rewards"  width=300 height=200>
+          </figure>
+          </div>
+
+- layout: top-middle
   name: Vanilla Policy Gradient
   description: |
           I implemented the [Vanilla Policy Gradient](https://spinningup.openai.com/en/latest/algorithms/vpg.html) algorithm from scratch using [<mark>PyTorch</mark>](https://pytorch.org/).  I tested my 
