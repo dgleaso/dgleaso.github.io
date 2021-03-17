@@ -3,12 +3,12 @@
   description: | # this will include new lines to allow paragraphs
           I am working on Autonomous Parking with [General Dynamics Land Systems - Canada](https://www.gdlscanada.com/) (GDLS-C).  I am applying End-to-End and Hierarchical Reinforcement Learning to 
           this problem.  Bellow are gifs of the agent running in simulation and the real world.
-          More videos can be found [here](https://drive.google.com/drive/folders/1p6IFBTAmCnHIlk-kKdz1hWLcwCzXRJl2?usp=sharing).  More information will be published in my Thesis soon.
+          An extended video with more details can be found [here](https://youtu.be/umz_SB_GqNA).  More information will be published in my Thesis soon.
           Please feel free to get in touch if you have any questions!
 
           <center>
-          <img src="images/sim-braid.gif" alt="e2e" width=200 height=200>
-          <img src="images/left-turn.gif" alt="robot" width=200 height=200>
+          <img src="images/E2E-2xspeed.gif" alt="e2e" width=200 height=200>
+          <img src="images/real_world_run.gif" alt="robot" width=200 height=200>
           </center>
 
 - layout: top-middle
