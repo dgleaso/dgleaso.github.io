@@ -2,8 +2,8 @@
   name: Autonomous Parking with Reinforcement Learning for Large Armoured Vehicles 
   description: | # this will include new lines to allow paragraphs
           I am working on Autonomous Parking with [General Dynamics Land Systems - Canada](https://www.gdlscanada.com/) (GDLS-C).  I am applying End-to-End and Hierarchical Reinforcement Learning to 
-          this problem.  Bellow are gifs of the agent running in simulation and the real world.
-          An extended video with more details can be found [here](https://youtu.be/umz_SB_GqNA).  More information will be published in my Thesis soon.
+          this problem.  Below are gifs of the agent running in simulation and the real world.
+          An extended video with more details can be found [here](https://youtu.be/umz_SB_GqNA).  More information will be published in my thesis soon.
           Please feel free to get in touch if you have any questions!
 
           <center>
