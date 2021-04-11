@@ -1,0 +1,48 @@
+- layout: top-middle
+  name: Autonomous Parking with Reinforcement Learning for Large Armoured Vehicles 
+  description: | # this will include new lines to allow paragraphs
+          I am working on Autonomous Parking with [General Dynamics Land Systems - Canada](https://www.gdlscanada.com/) (GDLS-C).  I am applying End-to-End and Hierarchical Reinforcement Learning to 
+          this problem.  Below are gifs of the agent running in simulation and the real world.
+          An extended video with more details can be found [here](https://youtu.be/umz_SB_GqNA).  More information will be published in my thesis soon.
+          Please feel free to get in touch if you have any questions!
+
+          <center>
+          <img src="images/E2E-2xspeed.gif" alt="e2e" width=200 height=200>
+          <img src="images/real_world_run.gif" alt="robot" width=200 height=200>
+          </center>
+
+- layout: top-middle
+  name: Binary classification on stock data using an LSTM
+  description: |
+          I used an LSTM to predict the next days S&P500 movement based on sequence of previous days. I used this project to gain experience working with LSTM's and time series data.  The project repository
+          can be found [here](https://github.com/dgleaso/Stock-Binary-Classification-LSTM).
+
+          <div style="text-align:center">
+          <figure style="display:inline-block; margin-left:auto; margin-right:auto;"> 
+          <img src="images/sp500-historical.png" alt="historical-price" width=300 height=200>
+          </figure>
+          <figure style="display:inline-block; margin-left:auto; margin-right:auto;"> 
+          <img src="images/cm_train.png" alt="rewards"  width=300 height=200>
+          </figure>
+          <figure style="display:inline-block; margin-left:auto; margin-right:auto;"> 
+          <img src="images/acc_train.png" alt="rewards"  width=300 height=200>
+          </figure>
+          </div>
+
+- layout: top-middle
+  name: Vanilla Policy Gradient
+  description: |
+          I implemented the [Vanilla Policy Gradient](https://spinningup.openai.com/en/latest/algorithms/vpg.html) algorithm from scratch using [<mark>PyTorch</mark>](https://pytorch.org/).  I tested my 
+          implementation on the [CartPole-v0](https://gym.openai.com/envs/CartPole-v0/) environment, and it is able to learn to succeed at the task within minutes.  My implementation can be 
+          found [here](https://github.com/dgleaso/PolicyGradient).
+
+          <div style="text-align:center">
+          <figure style="display:inline-block; margin-left:auto; margin-right:auto;"> 
+          <img src="images/cartpole.jpg" alt="cartpole" width=300 height=200>
+          <figcaption>CartPole-v0 environment</figcaption>
+          </figure>
+          <figure style="display:inline-block; margin-left:auto; margin-right:auto;"> 
+          <img src="images/running_average_training_reward.png" alt="rewards"  width=300 height=200>
+          <figcaption>Running average episode reward during training</figcaption>
+          </figure>
+          </div>
