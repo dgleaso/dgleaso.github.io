@@ -1,4 +1,13 @@
 - layout: left
+  company: CIBC
+  link: 
+  jobs:
+    - title: Data Scientist
+      dates: May 2021 - present
+  description: | # this will include new lines to allow paragraphs
+          I work on Data Science and Machine Learning problems for cyber security.
+
+- layout: left
   company: York University 
   link: eecs.lassonde.yorku.ca
   jobs:
