@@ -10,7 +10,7 @@ name: Daniel Gleason
 #title: > 
 #Master's Student, Specialization in Artificial Intelligence 
 #        York University
-title: Master's Student, Specialization in Artificial Intelligence, York University
+title: Applied Scientist at Amazon
 email: daniel.gleason@outlook.com
 #website: https://dgleaso.github.io/
 
@@ -30,19 +30,18 @@ linkedin_username: daniel-gleason-069a1aa4
 # about_title: About Me
 about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-        My name is Daniel and I am working at Amazon Advertising as a Applied Scientist for Sponsored Products.
+        My name is Daniel and I am working at Amazon Advertising as a Applied Scientist for the Sponsored Products team.
         I graduated from York university with a Master of Science in Computer Science with a Specialization in Artificial Intelligence,
         a program officially recognized by the [Vector Institute](https://vectorinstitute.ai/).
 
         I am excited to be working in the field of Machine Learning. I am particularly interested in Deep Reinforcement Learning, which I am exploring in my Master's Industry Research Project. 
-        I have experience working with the [<mark>SciPy</mark>](https://www.scipy.org/) ecosystem and [<mark>PyTorch</mark>](https://pytorch.org/).
+        I have experience working with the [<mark>SciPy</mark>](https://www.scipy.org/) ecosystem, [<mark>PySpark</mark>](https://spark.apache.org/docs/latest/api/python/index.html) and [<mark>AWS</mark>](https://aws.amazon.com/), as well as [<mark>PyTorch</mark>](https://pytorch.org/) and [<mark>TensorFlow</mark>](https://www.tensorflow.org/).
         
+# Experience Section
+experience_title: Experience
 
 # Projects Section
 projects_title: Projects
-
-# Experience Section
-experience_title: Experience
 
 # Education Section
 educaton_title: Education

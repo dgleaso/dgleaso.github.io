@@ -5,7 +5,7 @@
     - title: Applied Scientist
       dates: June 2022 - present
   description: | # this will include new lines to allow paragraphs
-          I work on ML solutions for bid suggestions for advertisers using Amazon's Sponsored Products
+          I deliver ML solutions which help advertisers on Amazon effectively use Sponsored Products.  My work leverages large datasets using PySpark and AWS to help advertisers configure their ad campaigns.
 
 - layout: left
   company: CIBC
